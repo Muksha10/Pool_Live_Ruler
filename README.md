@@ -80,7 +80,7 @@ Pool Live Ruler هو برنامج مساعد يهدف إلى مساعدة لاع
 
 <div align="right">
 
-1️⃣ قم بتحميل الملف التنفيذي من صفحة **Releases**  
+1️⃣ قم بتحميل الملف التنفيذي 
 2️⃣ شغّل الملف مباشرة — لا يحتاج إلى تثبيت  
 
 </div>
@@ -169,7 +169,7 @@ Successfully tested on:
 
 ## 📥 Installation
 
-1. Download the executable from the **Releases** page  
+1. Download the executable
 2. Run the file — no installation required  
 
 ---
