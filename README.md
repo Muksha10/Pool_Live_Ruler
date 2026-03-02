@@ -4,6 +4,7 @@ Official update repository for Pool Live Ruler application
 🎱 Pool Live Ruler
 <p align="center"> <img src="https://img.shields.io/badge/الإصدار-1.0.8-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/المنصة-Windows-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/الترخيص-تجاري-red?style=for-the-badge"> </p><p align="center"> <b>🎯 أقوى أداة احترافية لتحسين تسديدك في البلياردو 🎯</b> </p><p align="center"> <i>ارسم خطوط القياس بدقة خرافية واضمن الكورة في الجيب!</i> </p>
 📋 نظرة عامة
+
 Pool Live Ruler هو برنامج مساعد يهدف إلى مساعدة لاعبي البلياردو على تحسين مهاراتهم في التصويب من خلال توفير إرشادات بصرية دقيقة.
 
 تنويه: البرنامج مخصص للأغراض التعليمية والتدريبية فقط. يتحمل المستخدم المسؤولية الكاملة عن استخدامه.
@@ -20,13 +21,19 @@ Pool Live Ruler هو برنامج مساعد يهدف إلى مساعدة لاع
 تكيف تلقائي - يتوافق مع مختلف أحجام الشاشات
 
 🎮 طريقة الاستخدام
+
 المفتاح	الوظيفة
 WASD / الأسهم	تحريك الكرة البيضاء
+
 Shift + WASD	حركة سريعة
+
 Ctrl + ماوس	وضع الكرة عند المؤشر
+
 Alt + ماوس	تفعيل الـ Snap
+
 + / -	تكبير/تصغير حجم الكرات
-F1, F2, F3	حفظ، تحميل، حذف الإعدادات
+
+F1, F2, F3حفظ، تحميل، حذف الإعدادات
 ESC	خروج
 📥 التثبيت
 قم بتحميل الملف التنفيذي من صفحة الإصدارات
