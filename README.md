@@ -11,8 +11,13 @@ Pool Live Ruler 🎱
 🎱 Pool Live Ruler - أداة احترافية لرسم خطوط البلياردو على الشاشة / Professional billiard measurement tool
 
 ✨ الميزات / Features:
-• رسم خطوط القياس / Draw measurement lines
+
+•رسم خطوط القياس/ Draw measurement lines
+
 • سناپ ذكي للكرات / Smart ball snap (Alt+Mouse)
+
 • تخصيص الألوان / Custom colors
+
 • حفظ وتحميل الإعدادات / Save & load settings
+
 • يدعم العربية والإنجليزية / Arabic & English support
