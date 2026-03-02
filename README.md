@@ -7,6 +7,7 @@ Pool Live Ruler 🎱
 ![Version](https://img.shields.io/badge/version-1.0.8-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-brightgreen)
 ![License](https://img.shields.io/badge/license-Proprietary-red)
+
 🎱 Pool Live Ruler - أداة احترافية لرسم خطوط البلياردو على الشاشة / Professional billiard measurement tool
 
 ✨ الميزات / Features:
