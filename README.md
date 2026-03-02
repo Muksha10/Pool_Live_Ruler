@@ -38,7 +38,6 @@ Pool Live Ruler هو برنامج مساعد يهدف إلى مساعدة لاع
 ✅ لا يسبب ظهور شاشة سوداء أثناء التشغيل  
 ✅ لا يوجد تعارض مع أنظمة الحماية داخل اللعبة  
 
-> ملاحظة: قد يختلف الأداء حسب إعدادات الجهاز ودقة الشاشة.
 ---
 
 ## ✨ الميزات الأساسية
@@ -124,6 +123,21 @@ Pool Live Ruler هو برنامج مساعد يهدف إلى مساعدة لاع
 Pool Live Ruler is an assistant tool designed to help billiard players improve their aiming skills by providing accurate visual guidelines.
 
 > ⚠️ **Disclaimer:** This tool is intended for educational and training purposes only. Users are solely responsible for how they use it.
+
+---
+
+## 🧪 Compatibility & Testing
+
+Fully compatible with the latest versions of **Pool Live Plus** and **Pool Live Tour Max**.
+
+Successfully tested on:
+
+- 🎱 **Pool Live Plus**
+- 🎱 **Pool Live Tour Max**
+
+✔ Stable performance  
+✔ No black screen issue  
+✔ No conflict with in-game protection overlay  
 
 ---
 
