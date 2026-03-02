@@ -2,7 +2,7 @@
 Official update repository for Pool Live Ruler application
 
 🎱 Pool Live Ruler
-<p align="center"> <img src="https://img.shields.io/badge/Version-1.0.8-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Platform-Windows-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/License-Commercial-red?style=for-the-badge"> </p><p align="center"> <b>أداة مساعدة بصرية للاعبي البلياردو لتحسين دقة التصويب</b> </p>
+<p align="center"> <img src="https://img.shields.io/badge/الإصدار-1.0.8-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/المنصة-Windows-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/الترخيص-تجاري-red?style=for-the-badge"> </p><p align="center"> <b>🎯 أقوى أداة احترافية لتحسين تسديدك في البلياردو 🎯</b> </p><p align="center"> <i>ارسم خطوط القياس بدقة خرافية واضمن الكورة في الجيب!</i> </p>
 📋 نظرة عامة
 Pool Live Ruler هو برنامج مساعد يهدف إلى مساعدة لاعبي البلياردو على تحسين مهاراتهم في التصويب من خلال توفير إرشادات بصرية دقيقة.
 
