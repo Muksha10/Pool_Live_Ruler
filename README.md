@@ -1,216 +1,92 @@
 # Pool_Live_Ruler
 Official update repository for Pool Live Ruler application
 
-
 🎱 Pool Live Ruler
-<p align="center"> <img src="https://img.shields.io/badge/الإصدار-1.0.8-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/المنصة-Windows-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/الترخيص-تجاري-red?style=for-the-badge"> </p><p align="center"> <b>🎯 أقوى أداة احترافية لتحسين تسديدك في البلياردو 🎯</b> </p><p align="center"> <i>ارسم خطوط القياس بدقة خرافية واضمن الكورة في الجيب!</i> </p>
-✨ إيه اللي البرنامج ده يعملهولك؟
-🎯 مش هتضيع كورة تاني!
-ارسم خطوط القياس بين الكورة البيضا وجيوب الطاولة
+<p align="center"> <img src="https://img.shields.io/badge/Version-1.0.8-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Platform-Windows-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/License-Commercial-red?style=for-the-badge"> </p><p align="center"> <b>أداة مساعدة بصرية للاعبي البلياردو لتحسين دقة التصويب</b> </p>
+📋 نظرة عامة
+Pool Live Ruler هو برنامج مساعد يهدف إلى مساعدة لاعبي البلياردو على تحسين مهاراتهم في التصويب من خلال توفير إرشادات بصرية دقيقة.
 
-٣ خطوط: خط رئيسي أحمر وخطين جانبيين سود عشان تحسب الزوايا بدقة
+تنويه: البرنامج مخصص للأغراض التعليمية والتدريبية فقط. يتحمل المستخدم المسؤولية الكاملة عن استخدامه.
 
-شوف المسار الصح قبل ما تلعب
+✨ الميزات الأساسية
+خطوط إرشادية - رسم خطوط بين الكرة البيضاء وجيوب الطاولة لتوضيح مسار التصويب
 
-🧠 سناپ ذكي - اللي مفيش في برنامج تاني!
-دوس Alt + الماوس وهيفتح عينه علي الشاشة
+خاصية الـ Snap - تحديد الكرة البيضاء تلقائياً على الشاشة
 
-يلقطلك الكورة البيضا ويحط المربع عليها تلقائيًا
+تخصيص الألوان - تغيير ألوان الخطوط والجيوب
 
-حتى لو الكورة بعيدة، هو يدور عليها ويجيبها!
+ثنائي اللغة - واجهة عربية وإنجليزية
 
-🎨 ** customizing على مزاجك**
-غير ألوان الخطوط زي ما تحب
+تكيف تلقائي - يتوافق مع مختلف أحجام الشاشات
 
-غير لون الجيوب
+🎮 طريقة الاستخدام
+المفتاح	الوظيفة
+WASD / الأسهم	تحريك الكرة البيضاء
+Shift + WASD	حركة سريعة
+Ctrl + ماوس	وضع الكرة عند المؤشر
+Alt + ماوس	تفعيل الـ Snap
++ / -	تكبير/تصغير حجم الكرات
+F1, F2, F3	حفظ، تحميل، حذف الإعدادات
+ESC	خروج
+📥 التثبيت
+قم بتحميل الملف التنفيذي من صفحة الإصدارات
 
-كبر وصغر حجم الكور بـ + و -
+شغّل الملف مباشرة - لا يحتاج إلى تثبيت
 
-🌐 عربي وإنجليزي
-الواجهة بالعربي والإنجليزي
-
-حول بينهم في ثانية بضغطة زر
-
-📱 على أي شاشة
-شغال على الشاشات الصغيرة والكبيرة
-
-من اللاب توب الصغير للشاشات العملاقة
-
-🎮 إزاي تستخدمه؟
-التحكم بالكيبورد 🎹
-المفتاح	وظيفته
-WASD أو الأسهم	تحريك الكورة البيضا
-Shift + WASD	حركة سريعة (أسرع ب١٥ مرة)
-Ctrl + ماوس	حط الكورة مكان الماوس
-Alt + ماوس	السناپ الذكي - يدور على الكورة ويجيبها
-+	كبر حجم الكور
--	صغر حجم الكور
-F1	حفظ سريع للإعدادات
-F2	تحميل آخر حفظ
-F3	مسح آخر حفظ
-ESC	خروج من البرنامج
-التحكم بالماوس 🖱️
-زر يمين على الجيب → اسحب الجيب للمكان اللي تحبه
-
-زر شمال على الأزرار → حفظ، تحميل، مسح
-
-📥 التحميل والتثبيت
-الطريقة الأسطى:
-روح صفحة الإصدارات
-
-نزل أحدث ملف Pool_Live_Ruler.exe
-
-دوس عليه وشغله علطول
-
-💡 مفيش تثبيت ولا وجع دماغ! شغله من أي مكان على جهازك والبرنامج يعمل نفسه بنفسه.
-
-🔐 نظام التفعيل (عشان القات)
-البرنامج مش مجاني، لكنه يستاهل كل قرش:
-
-أسعار الاشتراك 💰
-المدة	داخل مصر (جنيه)	خارج مصر (دولار)
-أسبوع	30 ج	$1.49
-شهر	100 ج	$4.99
-٣ شهور	250 ج	$13.99
-٦ شهور	450 ج	$26.99
-سنة	800 ج	$49.99
-طرق الدفع 💳
-📱 فودافون كاش (لمصر)
-
-₿ USDT (TRC20) (لخارج مصر)
-
-طريقة التفعيل خطوة بخطوة:
-شغل البرنامج
-
-اختار اللغة
-
-انسخ رقم الجهاز (اللي بيظهر لك)
-
-ابعت الرقم على فيسبوك للمطور
-
-استلم الكود وحطه في المكان المخصص
-
-يلا بينا نلعب! 🎯
-
-📞 لو احتجت حاجة
+ℹ️ معلومات التواصل
 المطور: محمد شوقي
 
 فيسبوك: Muksha20
 
-آخر تحديث: ٢ مارس ٢٠٢٦
-
 الإصدار: 1.0.8
 
-⚠️ ملاحظة مهمة
-البرنامج ده معمول للمساعدة والتحسين من مستواك، مش للغش في البطولات. استخدمه بذوق واتعلم منه تبقى لاعب محترف!
+آخر تحديث: 2 مارس 2026
 
-⭐ لو عجبك البرنامج
-دوس على Star هنا في GitHub 👆
-ده بيدفعني إني أطوره وأضيف ميزات أكتر!
+⚖️ إخلاء مسؤولية
+هذا البرنامج يُستخدم على مسؤولية المستخدم الشخصية. المطور غير مسؤول عن أي استخدام غير قانوني أو مخالف لقوانين البطولات والمسابقات.
 
-<p align="center"> <b>🎯 مع Pool Live Ruler، كل الكور بتدخل الجيب! 🎯</b> </p><p align="center"> <i>Copyright © Mohamed Shawky. All rights reserved.</i> </p>
 🎱 Pool Live Ruler (English)
-<p align="center"> <img src="https://img.shields.io/badge/Version-1.0.8-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Platform-Windows-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/License-Commercial-red?style=for-the-badge"> </p><p align="center"> <b>🎯 The Ultimate Billiard Aiming Assistant 🎯</b> </p><p align="center"> <i>Draw perfect guidelines and never miss a shot again!</i> </p>
-✨ What Can It Do For You?
-🎯 Never Miss Another Shot!
-Draw measurement lines between the white ball and pockets
+<p align="center"> <img src="https://img.shields.io/badge/Version-1.0.8-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Platform-Windows-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/License-Commercial-red?style=for-the-badge"> </p><p align="center"> <b>Visual aiming assistant for billiard players</b> </p>
+📋 Overview
+Pool Live Ruler is an assistant tool designed to help billiard players improve their aiming skills by providing accurate visual guidelines.
 
-3 lines: red main line and two black side lines for perfect angle calculation
+Disclaimer: This tool is intended for educational and training purposes only. Users are solely responsible for how they use it.
 
-See the perfect path before you shoot
+✨ Key Features
+Guide Lines - Draw lines between white ball and pockets to visualize shot paths
 
-🧠 Smart Snap - Revolutionary Feature!
-Press Alt + Mouse and it scans the screen
+Snap Feature - Automatically detect the white ball on screen
 
-Automatically detects and snaps to the white ball
+Custom Colors - Change line and pocket colors
 
-Even finds distant balls and brings the guide to them!
+Bilingual - Arabic and English interface
 
-🎨 Customize Everything
-Change line colors to your preference
+Adaptive Display - Works on different screen sizes
 
-Change pocket colors
-
-Increase/decrease ball size with + and -
-
-🌐 Bilingual Interface
-Arabic and English support
-
-Switch instantly with one click
-
-📱 Works on Any Screen
-From small laptops to 4K monitors
-
-Automatically adapts to your screen size
-
-🎮 How To Use
-Keyboard Controls 🎹
+🎮 How to Use
 Key	Function
-WASD or Arrows	Move white ball
-Shift + WASD	Fast movement (15x faster)
+WASD / Arrows	Move white ball
+Shift + WASD	Fast movement
 Ctrl + Mouse	Place ball at cursor
-Alt + Mouse	Smart Snap - finds and snaps to ball
-+	Increase ball size
--	Decrease ball size
-F1	Quick save settings
-F2	Load last save
-F3	Delete last save
-ESC	Exit program
-Mouse Controls 🖱️
-Right click on pocket → Drag pocket anywhere
+Alt + Mouse	Activate Snap feature
++ / -	Increase/decrease ball size
+F1, F2, F3	Save, load, delete settings
+ESC	Exit
+📥 Installation
+Download the executable from Releases Page
 
-Left click on buttons → Save, Load, Delete
+Run the file - no installation required
 
-📥 Download & Installation
-Super Easy:
-Go to Releases Page
-
-Download latest Pool_Live_Ruler.exe
-
-Double click and play!
-
-💡 No installation hassles! Run from anywhere, the program creates its own folders automatically.
-
-🔐 Activation System
-Subscription Prices 💰
-Duration	Inside Egypt (EGP)	Outside Egypt (USD)
-Week	30 EGP	$1.49
-Month	100 EGP	$4.99
-3 Months	250 EGP	$13.99
-6 Months	450 EGP	$26.99
-Year	800 EGP	$49.99
-Payment Methods 💳
-📱 Vodafone Cash (Egypt)
-
-₿ USDT (TRC20) (International)
-
-Activation Steps:
-Run the program
-
-Choose your language
-
-Copy your Device ID
-
-Send it to me on Facebook
-
-Enter the code you receive
-
-Start your winning streak! 🎯
-
-📞 Contact & Support
+ℹ️ Contact Info
 Developer: Mohamed Shawky
 
 Facebook: Muksha20
 
-Last Update: March 2, 2026
-
 Version: 1.0.8
 
-⚠️ Important Note
-This tool is designed to help you learn and improve your aiming, not for cheating in tournaments. Use it wisely and become a better player!
+Last Update: March 2, 2026
 
-⭐ Support The Project
-Hit that Star button on GitHub 👆
-It motivates me to add more features and make it even better!
+⚖️ Disclaimer
+This software is used at the user's own risk. The developer is not responsible for any misuse or violation of tournament rules and regulations.
 
-<p align="center"> <b>🎯 With Pool Live Ruler, every shot is a winner! 🎯</b> </p><p align="center"> <i>Copyright © Mohamed Shawky. All rights reserved.</i> </p>
+<p align="center"> <i>Copyright © Mohamed Shawky. All rights reserved.</i> </p>
