@@ -2,7 +2,7 @@
 Official update repository for **Pool Live Ruler** application
 
 <p align="center">
-  <img src="https://img.shields.io/badge/الإصدار-1.0.9-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/الإصدار-1.1.1-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/المنصة-Windows-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/الترخيص-تجاري-red?style=for-the-badge" />
 </p>
@@ -92,7 +92,7 @@ Pool Live Ruler هو برنامج مساعد يهدف إلى مساعدة لاع
 
 - 👨‍💻 المطور: **محمد شوقي**
 - 📘 فيسبوك: Muksha20
-- 🔢 الإصدار: 1.0.9
+- 🔢 الإصدار: 1.1.1
 - 📅 آخر تحديث: 3 مارس 2026
 
 ---
@@ -108,7 +108,7 @@ Pool Live Ruler هو برنامج مساعد يهدف إلى مساعدة لاع
 # 🎱 Pool Live Ruler (English)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.9-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Version-1.1.1-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-Windows-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-Commercial-red?style=for-the-badge" />
 </p>
@@ -179,7 +179,7 @@ Successfully tested on:
 
 - 👨‍💻 Developer: Mohamed Shawky  
 - 📘 Facebook: Muksha20  
-- 🔢 Version: 1.0.9  
+- 🔢 Version: 1.1.1  
 - 📅 Last Update: March 3, 2026  
 
 ---
